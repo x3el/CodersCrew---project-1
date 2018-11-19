@@ -53,6 +53,7 @@ p {
 
 .news {
     width: 73%;
+    padding: 10px;
 }
 
 button.read_more {
